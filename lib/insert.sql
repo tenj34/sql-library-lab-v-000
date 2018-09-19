@@ -14,3 +14,5 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Ron
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Malfoy Draco", "Potter", "Human", 2, 2);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Sansa Stark", "Help", "Human", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Tyrion Lannister", "Wine", "Human", 1, 1);
+INSERT INTO subgenres (name) VALUES ("High Fantasy");
+INSERT INTO subgenres (name) VALUES ("Magical Realism");
