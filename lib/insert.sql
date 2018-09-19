@@ -11,6 +11,6 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Her
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Jon Snow", "", "Human", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("The Hound", "", "Human", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Ron Weasely", "", "Human", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("", "", "Human", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("", "", "Human", 1, 1);
-INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("", "", "Human", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Malfoy Draco", "", "Human", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Sansa Stark", "", "Human", 1, 1);
+INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Tyrion Lannister", "", "Human", 1, 1);
