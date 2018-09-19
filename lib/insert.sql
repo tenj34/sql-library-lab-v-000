@@ -15,4 +15,4 @@ INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Mal
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Sansa Stark", "Help", "Human", 1, 1);
 INSERT INTO characters (name, motto, species, author_id, series_id) VALUES ("Tyrion Lannister", "Wine", "Human", 1, 1);
 INSERT INTO subgenres (name) VALUES ("High Fantasy");
-INSERT INTO subgenres (name) VALUES ("Magical Realism");
+INSERT INTO subgenres (name) VALUES ("Magical Fantasy");
