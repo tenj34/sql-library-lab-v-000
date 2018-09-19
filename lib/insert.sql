@@ -1,7 +1,7 @@
 INSERT INTO series (title, author_id, subgenre_id) VALUES ("Game of Thrones", 1, 1);
 INSERT INTO series (title, author_id, subgenre_id) VALUES ("Harry Potter", 2, 2);
 INSERT INTO authors (name) VALUES ("George R.R Martin");
-INSERT INTO authors (name) VALUES ("JK Rowlning");
+INSERT INTO authors (name) VALUES ("JK Rowling");
 INSERT INTO books (title, year, series_id) VALUES ("The Prisoner of Azkaban", 1999, 2);
 INSERT INTO books (title, year, series_id) VALUES ("A Feast of Crows", 2005, 1);
 INSERT INTO books (title, year, series_id) VALUES ("The Sorcerer's Stone", 1997, 2);
